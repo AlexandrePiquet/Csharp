@@ -1,0 +1,6 @@
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/bin/Debug/PremierTest.exe
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/bin/Debug/PremierTest.pdb
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/obj/x86/Debug/PremierTest.csprojAssemblyReference.cache
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/obj/x86/Debug/PremierTest.csproj.CoreCompileInputs.cache
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/obj/x86/Debug/PremierTest.exe
+/home/utilisateur/Documents/envois sur Github/C#/PremierTest/PremierTest/obj/x86/Debug/PremierTest.pdb
