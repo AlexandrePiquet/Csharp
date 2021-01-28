@@ -1,0 +1,6 @@
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/bin/Debug/SimpleTextEditor.exe
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/bin/Debug/SimpleTextEditor.pdb
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/obj/x86/Debug/SimpleTextEditor.csprojAssemblyReference.cache
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/obj/x86/Debug/SimpleTextEditor.csproj.CoreCompileInputs.cache
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/obj/x86/Debug/SimpleTextEditor.exe
+/home/utilisateur/Documents/envois sur Github/C#/SimpleTextEditor/SimpleTextEditor/obj/x86/Debug/SimpleTextEditor.pdb
